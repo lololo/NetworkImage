@@ -2,6 +2,7 @@ import SwiftUI
 
 // MARK: - Deprecated after 5.0.0:
 
+@available(macOS 11.0, *)
 extension NetworkImage {
   @available(
     *,
